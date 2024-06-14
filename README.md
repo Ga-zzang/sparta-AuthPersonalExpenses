@@ -1,1 +1,1 @@
-# sparta-AuthPersonalExpenses
+#React 심화 과제 - '인증기능이 추가된 지출 관리 시스템'
