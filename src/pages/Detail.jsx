@@ -50,10 +50,10 @@ const Button = styled.button`
 `;
 
 const BackButton = styled(Button)`
-  background-color: #6c757d;
+  background-color: #9B94B3;
 
   &:hover {
-    background-color: #5a6268;
+    background-color: #9B94B3;
   }
 `;
 

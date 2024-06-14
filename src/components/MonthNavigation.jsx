@@ -33,10 +33,10 @@ const MonthButton = styled.button`
   background: ${(props) =>
     !props.selected
       ? "var(--black-alpha-100, #F6F7FA)"
-      : "var(--bg-form, #2EC4B6)"};
+      : "var(--bg-form, #928BA8)"};
 
   &:hover {
-    background: #2ec4b6;
+    background: #928BA8;
     color: #fff;
   }
 `;
